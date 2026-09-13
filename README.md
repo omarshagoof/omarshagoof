@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/avatar-animated-v3.svg" width="220" alt="Omar Shagoof" />
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00D9FF&height=250&section=header&text=OMAR%20SHAGOOF&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20•%20AI%20Systems&descAlignY=55&descSize=20" />
 
 <br>
@@ -21,6 +17,10 @@
 <a href="https://github.com/omarshagoof">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/avatar-animated-v3.svg" width="220" alt="Omar Shagoof" />
 
 <br><br>
 
