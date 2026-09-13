@@ -10,11 +10,6 @@
 
 <br>
 
-<!-- USERNAME -->
-<h2>omarshagoof</h2>
-
-<br>
-
 <!-- ANIMATED TEXT -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+web+applications;Securing+systems+%26+solving+real+problems;Shipping+AI-powered+products;Open+for+freelance+%26+contract+work" />
 
