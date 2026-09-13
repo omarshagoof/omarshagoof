@@ -1,29 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00D9FF&height=250&section=header&text=OMAR%20SHAGOOF&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20•%20AI%20Systems&descAlignY=55&descSize=20" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+web+applications;Securing+systems+%26+solving+real+problems;Shipping+AI-powered+products;Open+for+freelance+%26+contract+work" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/omar-ahmed">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:omarshagoof@gmail.com">
-<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0F0C29" />
-</a>
-<a href="https://github.com/omarshagoof">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/avatar-animated-v3.svg" width="220" alt="Omar Shagoof" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3D,45:0B3D91,100:00D9FF&height=250&section=header&text=OMAR%20SHAGOOF&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20•%20AI%20Systems&descAlignY=55&descSize=20" />
 
 <br><br>
 
+<!-- PROFILE IMAGE -->
+<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/profile-illustration.png" width="220" alt="Omar Shagoof" />
+
+<br>
+
+<!-- USERNAME -->
+<h2>omarshagoof</h2>
+
+<br>
+
+<!-- ANIMATED TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+web+applications;Securing+systems+%26+solving+real+problems;Shipping+AI-powered+products;Open+for+freelance+%26+contract+work" />
+
+<br><br>
+
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/omar-ahmed">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:omarshagoof@gmail.com">
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=071A3D" />
+</a>
+
+<a href="https://github.com/omarshagoof">
+<img src="https://img.shields.io/badge/GitHub-071A3D?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+
+<br><br>
+
+<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=omarshagoof&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
 
 <br>
@@ -40,8 +52,16 @@ I'm **Omar Shagoof** — a full stack developer based in **Egypt 🇪🇬**, foc
 const omar = {
   role: "Full Stack Developer",
   location: "Egypt 🇪🇬",
-  focusAreas: ["Web Development", "Cybersecurity", "Artificial Intelligence"],
-  currentlyLearning: ["Next.js", "TypeScript", ".NET", "AI Systems"],
+  focusAreas: [
+    "Web Development",
+    "Cybersecurity",
+  ],
+  currentlyLearning: [
+    "Next.js",
+    "TypeScript",
+    ".NET",
+    "AI Systems"
+  ],
   availability: "Open to freelance & contract work",
   philosophy: "Small steps, big results 🚀"
 };
