@@ -5,8 +5,8 @@
 
 <br><br>
 
-<!-- PROFILE IMAGE -->
-<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/profile-illustration.png" width="220" alt="Omar Shagoof" />
+<!-- ANIMATED PROFILE IMAGE -->
+<img src="https://raw.githubusercontent.com/omarshagoof/omarshagoof/main/avatar-animated-v3.svg" width="220" height="220" alt="Omar Shagoof" />
 
 <br>
 
@@ -54,7 +54,7 @@ const omar = {
   location: "Egypt 🇪🇬",
   focusAreas: [
     "Web Development",
-    "Cybersecurity",
+    "Cybersecurity"
   ],
   currentlyLearning: [
     "Next.js",
